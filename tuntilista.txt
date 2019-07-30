@@ -1,0 +1,26 @@
+13.6.2019 - Projektin aloittaminen - 1 h
+14.6.2019 - Databasen teko + keskustelu asiakkaan kanssa - 3 h
+15.6.2019 - Index - 25 min
+17.6.2019 - Admin - 40 min
+18.6.2019 - asennaphp - 3 h
+19.6.2019 - yhteys- 1 h
+22.6.2019 - Rekisteröinti - 5 h
+23.6.2019 - Rekisteröinti - 5 h
+24.6.2019 - Rekisteröinti - 5 h
+25.6.2019 - Rekisteröinti - 4 h
+26.6.2019 - Rekisteröinti + keskustelu asiakkaan kanssa - 6 h
+29.6.2019 - Kirjautuminen - 3 h
+1.7.2019 - Kirjautuminen - 4 h
+2.7.2019 - Kirjaudu_ulos - 1 h
+3.7.2019 - tarkista kirjautuminen - 1 h
+6.7.2019 - Admin_alku - 2 h
+7.7.2019 - admin loppu - 2 h
+7.7.2019 - alkuphp - 1 h
+8.7.2019 - funktiot - 4 h
+10.7.2019 - loppu - 15 min
+11.7.2019 - tkfunktiot - 2 h
+12.7.2019 - DnD + keskustelu asiakkaan kanssa - 2 h
+17.7.2019 - Rules + keskustelu asiakkaan kanssa - 2 h
+18.7.2019 - CSS - 5 h
+19.7.2019 - CSS - 5 h
+22.7.2019 - CSS - 5 h
