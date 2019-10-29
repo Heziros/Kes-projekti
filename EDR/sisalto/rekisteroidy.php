@@ -45,7 +45,7 @@ if(!$_POST || $ok==FALSE) {
     </p> 
 
     <p> 
-    <input class="button" type="submit" value="RekisterÃ¶idy"> 
+    <input class="button" type="submit" value="Rekisteröidy"> 
     </p> 
      
     </form>  

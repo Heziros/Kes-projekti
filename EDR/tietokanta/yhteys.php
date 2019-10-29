@@ -1,7 +1,7 @@
 <?php
 $host ="localhost";
-$user = "localhost_kayttaj";
-$pass = "Antedi01";
+$user = "root";
+$pass = "";
 $dbname = "kesa_projekti";
 
 try //yhteyden yrittäminen
